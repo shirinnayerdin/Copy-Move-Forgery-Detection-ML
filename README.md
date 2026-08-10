@@ -12,8 +12,8 @@ Install the required packages using:
 
 ```bash
 pip install opencv-python numpy scipy pywavelets scikit-image scikit-learn
+```
 
-
-Classic vs. Machine Learning Approach
+# Classic vs. Machine Learning Approach
 This repository focuses on the supervised learning approach (SVM classification). For the classic computer vision implementation using KNN matching and decision fusion, visit the Classic Repository ([https://github.com/shirinnayerdin/copy_move_forgery_detection](https://github.com/shirinnayerdin/copy_move_forgery_detection)).
 
